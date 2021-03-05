@@ -1,4 +1,4 @@
-package com.buskari.;
+package com.buskari;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
